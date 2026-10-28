@@ -1,6 +1,6 @@
 package Advance_Recursion;
 
-public class Quick_Sort {
+public class git add src/Advance_Recursion/Quick_Sort {
 
     public static void quickSort(int[] arr, int low, int high) {
         if (low < high) {
